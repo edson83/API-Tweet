@@ -1,0 +1,5 @@
+Started GET "/most_relevants" for ::1 at 2019-01-12 17:18:56 -0200
+Processing by LocawebTweetsController#most_relevants as HTML
+Completed 200 OK in 460ms (Views: 2.8ms)
+
+
